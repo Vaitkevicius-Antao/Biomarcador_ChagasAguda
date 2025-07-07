@@ -25,10 +25,6 @@ Este trabalho investiga a aplicabilidade de MAC solúveis (como CD106, CD62P, CD
     - Avaliação de acurácia, precisão, recall, F1 e AUC.
     - Visualização dos acertos e erros do modelo.
 
-• Curva ROC e AUC
-    - Avaliação da separação entre classes.
-    - Robustez do modelo frente a diferentes limiares.
-
 • Importância das Features
     - Análise global da contribuição de cada biomarcador.
     - Interpretação dos pesos dados pelo modelo.
